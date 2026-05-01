@@ -8,7 +8,11 @@ This repository facilitates contributors in listing their names and the scope of
 
 ## Conditions
 
-To get a pull request approved, submitters must provide proof of their work for the Kamailio project. If acknowledged privately by a Kamailio administrative group (e.g., management, security), the pull request will be approved without additional details. If the work was done independently without prior discussions, the pull request description must include details about the work type, date, and results.
+To get a pull request approved, submitters must provide proof of their work for the Kamailio project.
+
+If acknowledged privately by a Kamailio administrative group (e.g., management, security), the pull request will be approved without additional details. If the work resulted in submitting security issues acknowledged by memebers of Kamailio project, do not list any details about them in the pull request (i.e., do not list what components were affected, or how many issues were reported or their significance level -- such details will be published at the moment of the public disclosure, upon analysis of Kamailio security team).
+
+If the work was done independently without prior discussions, the pull request description must include details about the work type, date, and results.
 
 Please make the pull request to update the list of credits alphabetically.
 
@@ -16,13 +20,7 @@ Please make the pull request to update the list of credits alphabetically.
 
 | Name                | Alias - Username | Organization | Years       | Scope Of Work   | Short Description         |
 |---------------------|------------------|--------------|-------------|-----------------|---------------------------|
-| Alice Sipaylor      | n/a              | n/a          | 2026        | Security        | Sample entry              |
-| Bob Voipalone       | n/a              | n/a          | 2026        | Documentation   | Sample entry              |
-| Carol Telsmith      | n/a              | n/a          | 2026        | Promoting       | Sample entry              |
-| Haruto Kimura       | HarutoKimura     | Stella       | 2026        | Security        | Reported 15 memory corruption vulnerabilities in v6.1.1 (March 2026) |
-
-
-_**Note**: The sample entries will be removed after the first records have been added to the credits._ 
+| Haruto Kimura       | HarutoKimura     | Stella       | 2026        | Security        | Code analysis |
 
 
 ## Contact
