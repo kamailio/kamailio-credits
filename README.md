@@ -10,7 +10,7 @@ This repository facilitates contributors in listing their names and the scope of
 
 To get a pull request approved, submitters must provide proof of their work for the Kamailio project.
 
-If acknowledged privately by a Kamailio administrative group (e.g., management, security), the pull request will be approved without additional details. If the work resulted in submitting security issues acknowledged by memebers of Kamailio project, do not list any details about them in the pull request (i.e., do not list what components were affected, or how many issues were reported or their significance level -- such details will be published at the moment of the public disclosure, upon analysis of Kamailio security team).
+If acknowledged privately by a Kamailio administrative group (e.g., management, security), the pull request will be approved without additional details. If the work resulted in submitting security issues was acknowledged by memebers of Kamailio project, do not list any details about them in the pull request (i.e., do not list what components were affected, or how many issues were reported or their significance level -- such details will be published at the moment of the public disclosure, upon analysis of Kamailio security team).
 
 If the work was done independently without prior discussions, the pull request description must include details about the work type, date, and results.
 
