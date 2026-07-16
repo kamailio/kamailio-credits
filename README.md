@@ -26,6 +26,7 @@ Please make the pull request to update the list of credits alphabetically.
 | Hu Xinyao         | ZwCrazyThursday  |                                                        | 2026  | Security      | Security analysis |
 | Olivier Laflamme    | Boschko          | Pwno         | 2026        | Security        | Vulnerability research and fuzzing |
 | Sandro Gauci     |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
+| Wei              |                  | [Xidian University](https://www.xidian.edu.cn/)        | 2026  | Security      | Security analysis |
 
 
 ## Contact
