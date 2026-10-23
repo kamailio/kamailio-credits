@@ -26,6 +26,7 @@ Please make the pull request to update the list of credits alphabetically.
 | Hu Xinyao         | ZwCrazyThursday  |                                                        | 2026  | Security      | Security analysis |
 | Kaixuan Li       | MarkLee131       | [Nanyang Technological University](https://www.ntu.edu.sg/) | 2026  | Security      | Code analysis     |
 | kta1kri          | kta1kri          |                                                        | 2026  | Security      | Security analysis |
+| Md. Ifaj Hossan Omi | Ifaj-Hossan-Omi | [Preveia](https://preveia.com)                         | 2026  | Security      | Security analysis |
 | Nikolas Null     | n0k0 - N0K0      | [mnemonic](https://www.mnemonic.io/)                   | 2026  | Security      | Security analysis |
 | Olivier Laflamme    | Boschko          | Pwno         | 2026        | Security        | Vulnerability research and fuzzing |
 | Sandro Gauci     |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
